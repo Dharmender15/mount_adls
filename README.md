@@ -1,0 +1,1 @@
+Mount ADLS location in databricks using WHL file.
